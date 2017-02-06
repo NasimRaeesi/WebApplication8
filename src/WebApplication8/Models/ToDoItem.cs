@@ -10,6 +10,6 @@ namespace WebApplication8.Models
         public string  Name { get; set; }
         public string  Code { get; set; }
         public Boolean IsCompelte { get; set; }
-                public string Kind { get; set; }
+      
     }
 }
